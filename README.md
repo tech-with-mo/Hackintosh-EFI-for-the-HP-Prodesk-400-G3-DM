@@ -12,3 +12,7 @@ RAM: 8GB DDR4 @2400 MHz
 SSD: 256GB Intenso (Sata)
 
 macOS Version: Sonoma 14.7
+
+Use Mac Identifier iMac18,1 (iMac19,1 also works for me)
+
+If your Specs differ dont worry! This EFI will still work for you!
